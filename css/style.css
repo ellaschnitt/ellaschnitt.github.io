@@ -8,13 +8,13 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #e0b1cb;
   text-align: left;
 /*  min-width: 500px; */
 }
 header {
   font-family: Work Sans;
-  color: #fff;
+  color: #5e548e;
   min-height: 100vh;
   display: flex;
 }
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #5e548e;
   padding: 10px 0px 10px 10px;
 }
 
@@ -62,7 +62,7 @@ object-fit: cover;
 }
 
 .bio {
-color: #ffffff;
+color: #5e548e;
 font-size: 24px;
 font-family: 'Work Sans';
 }
@@ -74,9 +74,9 @@ font-family: 'Work Sans';
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #5e548e;
   cursor: pointer;
-  color: #ffffff;
+  color: #5e548e;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -84,7 +84,7 @@ font-family: 'Work Sans';
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#e0b1cb;
 }
 
 .myButton:active {
@@ -118,7 +118,7 @@ font-family: 'Work Sans';
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #4a4a4a;
+  color: #5e548e;
   position: relative;
   bottom: 5px;
 }
@@ -130,9 +130,9 @@ font-family: 'Work Sans';
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #5e548e;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  border-top: 1px solid #5e548e;
 }
 
 .logo {

@@ -17,8 +17,8 @@ background: linear-gradient(to left, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Fi
 
 }
 header {
-  font-family: Work Sans;
-  color: #654ea3;
+  font-family: Work-Sans;
+  color: #4a318f;
   min-height: 100vh;
   display: flex;
 }
@@ -151,8 +151,14 @@ font-family: 'Work Sans';
     margin: auto;
   }
 
-footer {
-  margin-top: 44px;
+footer div {
+  height: 100%;
+  font-family: 'Ro', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: #8b5fbf;
 }
 
 

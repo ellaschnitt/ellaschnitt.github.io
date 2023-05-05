@@ -17,7 +17,7 @@ background: linear-gradient(to left, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Fi
 
 }
 header {
-  font-family: Work-Sans;
+  font-family: 'Rozha One', serif;
   color: #4a318f;
   min-height: 100vh;
   display: flex;
@@ -35,7 +35,7 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  font-family: 'Questrial', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Questrial', sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -128,7 +128,7 @@ font-family: 'Work Sans';
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: 'Rozha One' serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
@@ -153,12 +153,12 @@ font-family: 'Work Sans';
 
 footer div {
   height: 100%;
-  font-family: Poppins, sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 14px;
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: #8b5fbf;
+  color: #5a3484;
 }
 
 
